@@ -1,6 +1,7 @@
 # SETL
 
 ![](https://codebuild.eu-west-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiWEJ3TXdNTUVsaUgveFE0V01xM1AvMkZaamVId1JFRGY0MDRuVWN1dEdmNkFKaFpmdmNlZXlTNFpGWjlXODFVQUNXdEIvc2tacXZuc3MySGpFU2gwVnk4PSIsIml2UGFyYW1ldGVyU3BlYyI6ImVqTmtldXdCWVlyd2JnMW0iLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e68825e7ab78459da9eb2a6d687a89eb)](https://app.codacy.com/manual/qxzzxq/setl?utm_source=github.com&utm_medium=referral&utm_content=qxzzxq/setl&utm_campaign=Badge_Grade_Settings)
 [![Gitter](https://badges.gitter.im/setl-by-jcdecaux/community.svg)](https://gitter.im/setl-by-jcdecaux/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![License](http://img.shields.io/:license-Apache%202-red.svg)](http://www.apache.org/licenses/LICENSE-2.0.txt)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.jcdecaux.setl/setl_2.11/badge.png?style=flat)](https://search.maven.org/search?q=g:com.jcdecaux.setl)
