@@ -11,9 +11,11 @@ New Features:
 - Added default Spark job group and description (#115)
 - Added `StructuredStreamingConnector` (#119)
 - Added `DeltaConnector` (#118)
+- Added `ZipArchiver` that can zip files and directories (#123)
 
 Fixes
-- Fixed path separator in FileConnectorSuite that cause test failure
+- Fixed path separator in `FileConnectorSuite` that causes test failure
+- Fixed `Setl.hasExternalInput` that always returns false (#120)
 
 ## 0.4.2 (2020-02-15)
 - Fixed cross building issue (#111)
